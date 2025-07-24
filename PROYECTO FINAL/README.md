@@ -16,5 +16,8 @@ Este proyecto educativo explora los principios fundamentales del procesamiento d
 
 - Comunicar los resultados a través de un video de divulgación(integrado en el propio dashboard).
 
-
+INTEGRANTES
+Miguel Andres Peña Fandiño
+Sofia Lopez Usma
+Juan Fernando Montoya
 
